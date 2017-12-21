@@ -259,7 +259,7 @@ Creator by Babang Adhi https://line.me/ti/p/boy29putra
 KAC=[cl,ki,kk,kc,ks,k1,k2,k3,k4,k5]
 DEF=[ki,kk,kc,ks,k1,k2,k3,k4,k5]
 mid = cl.getProfile().mid
-["u350cc7408cc6cc82e056ee046131f925"]
+["u350cc7408cc6cc82e056ee046131f925]
 Amid = ki.getProfile().mid
 ["ub51bc97c5e4f603f1dff35e9512550d3"]
 Bmid = kk.getProfile().mid
